@@ -1,0 +1,4 @@
+R5T.Tools.Dotnet.Types - A base-library of types for the dotnet tool.
+
+Goals
+
